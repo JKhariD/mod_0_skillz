@@ -1,0 +1,13 @@
+Instance: Server Staff
+
+Attributes:
+is_licensed (true)
+wears_uniform (true)
+share_tips (true)
+waiters (Thomas, Sarah, Christopher, Ronald, Phil, Jennifer)
+
+Methods:
+hire_employee (add Jared to waiters)
+waiters_share_tips (261)
+license_server (Jared must be licensed withn one week)
+change_uniform (all waiters must purchase a new uniform within two weeks)
