@@ -1,0 +1,13 @@
+class Cook
+
+Attributes:
+is_schooled (boolean)
+employed_cooks (integer)
+pay_rate (float)
+cook_names (string)
+
+Methods:
+is_schooles (cook recieves higher pay)
+pay_raise (pay rate increase by set amount)
+cook_is_hired (add 1 to employed cooks)
+change_head_cook (re-assign head cook)
