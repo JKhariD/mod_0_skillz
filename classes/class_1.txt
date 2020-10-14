@@ -1,0 +1,14 @@
+class Servers
+
+Attributes:
+uniform (string)
+is_licensed (boolean)
+waiters (integer)
+share_tips (boolean)
+
+
+Methods:
+hire_employee (add 1 employee)
+waiters_share_tips (tips are pooled and dispersed equally)
+license_server (a server is licensed to handle food)
+change_uniform (each server must wear new uniform)
