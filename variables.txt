@@ -1,0 +1,7 @@
+food = [toast, cereal, eggs, waffles, milk, juice, coffee]
+food_is_delicious = true
+food = [steak, burgers, fries, pasta, soda, wine]
+num2 = 45
+num7 = 5
+quotient = num7/num2
+song = ["Track 1", "Track 2", "Track 3"]
