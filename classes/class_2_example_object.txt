@@ -1,0 +1,13 @@
+Instance: Robert
+
+Attributes:
+is_schooled (true)
+employed_cooks (5)
+hourly_pay_rate (17.50)
+cook_names (Robert, Heather, Fredrick, Samuel, David)
+
+Methods:
+cook_quits (minus 1 cook from empled_cooks)
+pay_raise (increase pay_rate by 1)
+change_head_cook (change head cook from Robert to ___)
+cook_hired (add 1 to employed_cooks)
